@@ -268,6 +268,10 @@ footer {
 }
 /* Media Queries */
 @media (max-width: 600px) {
+  body{
+    overflow-x: hidden;
+    width: 100%;
+  }
   .landing-page {
     background: var(--VeryPaleCyan) url(./images/bg-hero-mobile.svg) no-repeat;
     padding: 2rem;
