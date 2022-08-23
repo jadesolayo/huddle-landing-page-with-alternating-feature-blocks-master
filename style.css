@@ -187,8 +187,7 @@ footer {
   color: var(--White);
 }
 .footer-logo-wrapper {
-  width: 15%;
-  margin-left: 3rem;
+  width: 17%;
 }
 .footer-info-wrapper {
   display: flex;
@@ -267,10 +266,11 @@ footer {
   color: var(--Pink);
 }
 /* Media Queries */
-@media (max-width: 600px) {
-  body{
+@media (max-width: 700px) {
+  body {
     overflow-x: hidden;
     width: 100%;
+    font-size: 1rem;
   }
   .landing-page {
     background: var(--VeryPaleCyan) url(./images/bg-hero-mobile.svg) no-repeat;
@@ -315,9 +315,6 @@ footer {
     margin-top: 2rem;
     padding: 1.2rem;
   }
-  .cards-article {
-    font-size: 0.9rem;
-  }
   .box-wrapper {
     padding: 1rem;
     width: 95%;
@@ -328,7 +325,6 @@ footer {
     width: 100%;
   }
   #heading3 {
-    font-size: 0.9rem;
     text-align: center;
   }
   footer {
@@ -339,7 +335,7 @@ footer {
     padding: 7rem 1rem 4rem 1rem;
   }
   .footer-logo-wrapper {
-    width: 50%;
+    width: 34%;
     margin: 0;
   }
   .footer-info-wrapper {
@@ -349,14 +345,12 @@ footer {
   .footer-info {
     width: 100%;
   }
-  .icon {
-    font-size: 0.9rem;
-  }
+
   .footer-links,
   .footer-links2 {
-    font-size: 0.9rem;
     width: 100%;
     margin: 0;
+    padding-top: 1rem;
   }
   .footer-icons {
     text-align: center;
@@ -365,8 +359,10 @@ footer {
   }
   .copy,
   .attribution {
+    padding-bottom: 1.5rem;
+  }
+  .attribution {
     font-size: 0.9rem;
-    padding-bottom: 1rem;
   }
   .copyright-cont {
     flex-direction: column;
