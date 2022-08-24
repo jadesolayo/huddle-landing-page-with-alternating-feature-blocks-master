@@ -12,7 +12,6 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ### The challenge
 
@@ -51,7 +50,7 @@ While I was working on his project, I used CSS Flexbox to structure the contents
 
 ### Continued development
 
-In Future, I would love to continue using CSS Flexbox to create responsive layouts and also implement CSS Grids too. I will also consider using SASS
+In Future, I would love to continue using CSS Flexbox to create responsive layouts and also implement CSS Grids too. I will also consider using SASSin future projects.
 
 ## Author
 
