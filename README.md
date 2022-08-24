@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jadesolayo/huddle-landing-page-with-alternating-feature-blocks-master)
-- Live Site URL: [Add live site URL here](https://huddle-landing-page-by-jadesola.netlify.app/)
+- Solution URL: [https://github.com/jadesolayo/huddle-landing-page-with-alternating-feature-blocks-master)](
+- Live Site URL: [(https://huddle-landing-page-by-jadesola.netlify.app/)]
 
 ## My process
 
