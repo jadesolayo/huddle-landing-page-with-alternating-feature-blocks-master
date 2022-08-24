@@ -24,9 +24,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/Web%20capture_24-8-2022_058_127.0.0.1.jpeg)
-(Desktop  View)
-![](./screenshots/Web%20capture_24-8-2022_0418_127.0.0.1.jpeg)
 (Mobile  View)
+![](./screenshots/Web%20capture_24-8-2022_0418_127.0.0.1.jpeg)
+(Desktop  View)
 
 ### Links
 
