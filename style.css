@@ -133,7 +133,7 @@ header {
   padding: 2rem;
   width: 49%;
 }
-#heading2 {
+.heading2 {
   font-size: 1.3rem;
   padding-bottom: 1rem;
 }
