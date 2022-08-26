@@ -90,7 +90,7 @@ header {
 .header-btn:hover {
   cursor: pointer;
 }
-.about-landing-page {
+.landing-page-text-wrapper {
   margin-top: 3rem;
   display: flex;
   justify-content: space-between;
@@ -278,14 +278,14 @@ footer {
     width: 100%;
     font-size: 1rem;
   }
-  .landing-page{
+  .landing-page {
     background: var(--VeryPaleCyan) url(./images/bg-hero-mobile.svg) no-repeat;
     padding: 2rem;
   }
   .header-logo-wrapper {
     width: 35%;
   }
-  .about-landing-page {
+  .landing-page-text-wrapper {
     flex-direction: column;
   }
   .landing-page-text-cont {
