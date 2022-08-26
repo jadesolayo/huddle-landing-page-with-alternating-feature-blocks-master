@@ -59,11 +59,14 @@ a:hover {
 article {
   line-height: 1.6rem;
 }
-
-.landing-page {
+.landing-page{
   background: var(--VeryPaleCyan) url(./images/bg-hero-desktop.svg) no-repeat;
   background-size: contain;
-  padding: 2rem 4rem 4rem 4rem;
+  padding: 3rem 4rem 4rem 4rem;
+}
+.landing-page-content, .card-section-content, .footer-content{
+  width: min(100%, 75rem);
+  margin-inline: auto;
 }
 header {
   display: flex;
@@ -272,7 +275,7 @@ footer {
     width: 100%;
     font-size: 1rem;
   }
-  .landing-page {
+  .landing-page-wrapper {
     background: var(--VeryPaleCyan) url(./images/bg-hero-mobile.svg) no-repeat;
     padding: 2rem;
   }
@@ -316,12 +319,12 @@ footer {
     padding: 1.2rem;
   }
   .box-wrapper {
-    padding: 1rem;
-    width: 95%;
+    padding: 3rem;
+    width: 94%;
     margin: 0 auto;
   }
   .small-box {
-    padding: 2rem;
+    padding: 3rem 2rem;
     width: 100%;
   }
   #heading3 {
