@@ -59,12 +59,14 @@ a:hover {
 article {
   line-height: 1.6rem;
 }
-.landing-page{
+.landing-page {
   background: var(--VeryPaleCyan) url(./images/bg-hero-desktop.svg) no-repeat;
   background-size: contain;
   padding: 3rem 4rem 4rem 4rem;
 }
-.landing-page-content, .card-section-content, .footer-content{
+.landing-page-content,
+.card-section-content,
+.footer-content {
   width: min(100%, 75rem);
   margin-inline: auto;
 }
@@ -269,13 +271,14 @@ footer {
   color: var(--Pink);
 }
 /* Media Queries */
+
 @media (max-width: 700px) {
   body {
     overflow-x: hidden;
     width: 100%;
     font-size: 1rem;
   }
-  .landing-page-wrapper {
+  .landing-page{
     background: var(--VeryPaleCyan) url(./images/bg-hero-mobile.svg) no-repeat;
     padding: 2rem;
   }
